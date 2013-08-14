@@ -4,7 +4,10 @@ This project is an simple example of using a chipKIT uC32 board equipped with DI
 
 License is BSD, Copyright 2013, Exosite LLC (see LICENSE file)
 
-Tested with MPIDE-0023
+Tested with :
+    - MPIDE-0023
+    - DIGILENT chipKit uC32
+    - DIGILENT chipKit WiFi Shield
 
 ========================================
 Quick Start
