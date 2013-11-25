@@ -38,11 +38,11 @@ Quick Start
 
 11. Edit the "PUTYOURCIKHERE" value in cloud.cpp to match your CIK value
 
-  ** HINT: Obtain a CIK by signing up for a free account at https://portals.exosite.com. After activating your account, login and navigate to https://portals.exosite.com/manage/devices and click the +Add Device link
+  ** HINT: Obtain a CIK by signing up for a free account at https://microchip.exosite.com. After activating your account, login and navigate to https://microchip.exosite.com/manage/devices and click the +Add Device link
 
-12. In Portals (https://portals.exosite.com), add two Data Sources to match the data resources (aliases) the code is using
+12. In Portals (https://microchip.exosite.com), add two Data Sources to match the data resources (aliases) the code is using
 
-  ** HINT: Go to https://portals.exosite.com/manage/data and click +Add Data Source
+  ** HINT: Go to https://microchip.exosite.com/manage/data and click +Add Data Source
 
   ** HINT: Ensure the "Resource:" values are set to "ping" and "onoff" respectively to match the code
 
@@ -56,7 +56,7 @@ Quick Start
 
 16. Go to File->Upload to I/O Board to upload the program
 
-17. When "Done uploading" is displayed, go to https://portals.exosite.com to see your data in the cloud!
+17. When "Done uploading" is displayed, go to https://microchip.exosite.com to see your data in the cloud!
 
   ** You can set "onoff" value from widget to control data reporting
 
