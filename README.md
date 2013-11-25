@@ -26,7 +26,7 @@ Quick Start
 
 5. Shutdown MPIDE, under your Sketchbook directory create a subdirectory called "libraries"; this directory may already exist.
 
-6. Unzip the ChipKITNetworkShield in the libraries directory.
+6. Unzip the chipKITNetworkShield in the libraries directory.
 
 7. Download the chipkit_wifi_cloud project from the repo and new a folder "Exosite" under the "libraries" then unzip files into the Exosite folder
 
